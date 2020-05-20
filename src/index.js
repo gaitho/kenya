@@ -16,7 +16,7 @@ module.exports = {
   tribesofkenya,
   ethnicpopulation2009,
   nationalities,
-  worldcurrencies
+  worldcurrencies,
   worldlanguages,
 };
 
